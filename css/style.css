@@ -91,7 +91,7 @@ button[type=submit] {
 
 
 header{
-    background: grey url(/images/bg4.jpg) no-repeat center center;
+    background: grey url(./images/bg4.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
@@ -276,7 +276,7 @@ nav.menu-icon a{
 }
 
 #experiencia{
-    background-image: url(/images/bgg2.png); 
+    background-image: url(./images/bgg2.png); 
     background-repeat: repeat;
     background-attachment: fixed;
     padding-top: 0.5rem;
@@ -337,7 +337,7 @@ figure img{
 
 
   #contacto{
-    background-image: url(/images/coral2.png); 
+    background-image: url(./images/coral2.png); 
     background-repeat: repeat;
     background-attachment: fixed;
     padding-top: 0.5rem;
